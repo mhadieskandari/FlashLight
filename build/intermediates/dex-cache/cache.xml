@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Asus\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\Asus\AndroidStudioProjects\FlashLight\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-87022186a942cf36e3949e64b13bff901ccaf2b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus\AndroidStudioProjects\FlashLight\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1ad8ab63383d34754ff2effa07d869d5a1404b8c">
+        <dex dex="C:\Users\Asus\AndroidStudioProjects\FlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5ad9d71b7ff79d5bf22f6ac756ccb8c776f787fd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Asus\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\Asus\AndroidStudioProjects\FlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.1.1_87022186a942cf36e3949e64b13bff901ccaf2b7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Asus\AndroidStudioProjects\FlashLight\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\Asus\AndroidStudioProjects\FlashLight\app\build\intermediates\pre-dexed\debug\classes-032c9f3c0e07133118c3910a2902d1d6e3626c77.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus\AndroidStudioProjects\FlashLight\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Asus\AndroidStudioProjects\FlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.1.1_92362caafe463cbcf55e09ef6bcf2044b96e289a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Asus\AndroidStudioProjects\FlashLight\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\Asus\AndroidStudioProjects\FlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.1.1_032c9f3c0e07133118c3910a2902d1d6e3626c77\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Asus\AndroidStudioProjects\FlashLight\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4555aee7fb20bc6568c0077bb4b76856e39147b7">
+        <dex dex="C:\Users\Asus\AndroidStudioProjects\FlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e81f8d7fe0e559aadc23510282b236b7939fc5cc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Asus\AndroidStudioProjects\FlashLight\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Asus\AndroidStudioProjects\FlashLight\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-92362caafe463cbcf55e09ef6bcf2044b96e289a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus\AndroidStudioProjects\FlashLight\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Asus\AndroidStudioProjects\FlashLight\app\build\intermediates\pre-dexed\debug\classes-831f1d9e6f9609c76f85c24b13773879dfc84e6f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus\AndroidStudioProjects\FlashLight\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Asus\AndroidStudioProjects\FlashLight\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.1.1_831f1d9e6f9609c76f85c24b13773879dfc84e6f\classes.dex" />
+    </item>
+
+</items>

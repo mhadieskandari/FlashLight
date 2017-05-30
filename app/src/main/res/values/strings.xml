@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">چراغ قوه</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">تنظیمات</string>
+    <string name="light">ثابت</string>
+    <string name="periodic">چشمک زن</string>
+    <string name="programmer">برنامه نویس: محمدهادی اسکندری</string>
+    <string name="email">Email: hadi.eskandari@ymail.com</string>
+</resources>
